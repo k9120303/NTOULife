@@ -1,0 +1,29 @@
+//----
+2016/12/15
+https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=php+%E7%99%BB%E5%85%A5%E5%8A%9F%E8%83%BD
+http://kkbruce.tw/bs3/CSS#buttons
+https://boonshenglow.gitbooks.io/bootstrap-/content/chapter5.html
+https://www.joomla.org.tw/doc/dev/opw-1
+https://pjchender.blogspot.tw/2015/03/php-mysql-phpmyadmin.html
+//------
+2016/12/16
+網站流程 http://pydoing.blogspot.tw/2012/11/PHP-Website-Controls.html
+Php http://pydoing.blogspot.tw/2012/11/PHP-embedded-into-HTML.html
+php post to self    https://www.ptt.cc/bbs/PHP/M.1355323845.A.765.html
+//------------------------------------------------
+2016/12/18
+navbar http://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+//------------------------------------------------
+2016/12/19
+BS CSS SuperHero(color-theme) https://bootswatch.com/superhero/
+http://blog.dota2.com/
+https://www.kkbox.com/tw/tc/index.html
+
+//------------------------------------------------
+2016/12/27
+http://www.w3schools.com/jquery/jquery_selectors.asp
+http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_sel_button
+表單效果 jquery event http://www.w3schools.com/jquery/jquery_events.asp
+ppt p25
+在javascript 產生form post http://blog.xuite.net/dizzy03/murmur/60259945-%5BJavascript%5D%5B%E8%BD%89%5D+%E7%94%A8JavaScript%E7%99%BC%E5%87%BAPost+Request
+.seloct() https://api.jquery.com/select/
